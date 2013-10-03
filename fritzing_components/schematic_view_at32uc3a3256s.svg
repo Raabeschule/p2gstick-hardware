@@ -7,15 +7,38 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.2"
    width="152.25296"
    height="520.28125"
    viewBox="0 0 152.25296 520.28125"
    id="Layer_1"
-   xml:space="preserve"><metadata
+   xml:space="preserve"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="schematic_view_at32uc3a3256s.svg"><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1219"
+   inkscape:window-height="776"
+   id="namedview441"
+   showgrid="false"
+   inkscape:zoom="1.8144033"
+   inkscape:cx="81.257236"
+   inkscape:cy="331.84656"
+   inkscape:window-x="61"
+   inkscape:window-y="24"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="schematic" /><metadata
    id="metadata15243"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs15241">
 	
 		
@@ -79,2318 +102,2607 @@
 <g
    transform="translate(0.43064036,-6.53125)"
    id="schematic"><rect
-     width="136.5218"
-     height="518.92731"
-     x="7.1999998"
-     y="7.1999998"
-     id="part_symbol"
-     style="fill:#ffffff;stroke:#000000;stroke-width:1.35000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163"
-     y2="28.799999"
-     x2="7.1999998"
-     y1="28.799999"
-     x1="0" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165"
-     y2="21.6"
-     x2="7.1999998"
-     y1="21.6"
-     x1="0" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167"
-     y2="43.200001"
-     x2="7.1999998"
-     y1="43.200001"
-     x1="-5.0980877e-09" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169"
-     y2="36"
-     x2="7.1999998"
-     y1="36"
-     x1="0" /><text
-     x="3.4626765"
-     y="20.060499"
-     id="text15188"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">2</text>
-<text
-     x="3.4494929"
-     y="27.185499"
-     id="text15194"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">3</text>
-<text
-     x="3.3986602"
-     y="34.685501"
-     id="text15196"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">4</text>
-<text
-     x="3.4509578"
-     y="41.811001"
-     id="text15198"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">5</text>
-<text
-     x="9.2594995"
-     y="22.683599"
-     id="text15221"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">VDD_IO</text>
-<text
-     x="9.2189999"
-     y="29.9863"
-     id="text15223"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">USB_VBIAS</text>
-<text
-     x="9.2594995"
-     y="37.068802"
-     id="text15225"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">GND_IO</text>
-<text
-     x="9.2189999"
-     y="44.371601"
-     id="text15227"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">DMHS</text>
-<text
-     x="54.354671"
-     y="277.2626"
-     id="text15235"
-     style="font-size:6px;font-family:DroidSans">AT32UC3A3256S</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1"
-     y2="50.423"
-     x2="7.1899986"
-     y1="50.423"
-     x1="-0.010000709" /><text
-     x="3.4409568"
-     y="49.034"
-     id="text15198-9"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">6</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4"
-     y2="57.623001"
-     x2="7.189981"
-     y1="57.623001"
-     x1="-0.010000709" /><text
-     x="3.4409575"
-     y="56.234001"
-     id="text15198-9-6"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">7</text>
-<text
-     x="9.1798239"
-     y="51.673"
-     id="text15227-9"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">DPHS</text>
-<text
-     x="9.1798239"
-     y="58.873001"
-     id="text15227-9-9"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">GND_IO</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5"
-     y2="14.409401"
-     x2="7.1899981"
-     y1="14.409401"
-     x1="-0.010000709" /><text
-     x="3.4526763"
-     y="12.869899"
-     id="text15188-0"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">1</text>
-<text
-     x="9.2494993"
-     y="15.493"
-     id="text15221-6"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">USB_VBUS</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163-3"
-     y2="78.299995"
-     x2="7.1999984"
-     y1="78.299995"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-1"
-     y2="71.099998"
-     x2="7.1999984"
-     y1="71.099998"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-6"
-     y2="92.699997"
-     x2="7.1999984"
-     y1="92.699997"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169-9"
-     y2="85.5"
-     x2="7.1999984"
-     y1="85.5"
-     x1="-4.8089197e-07" /><text
-     x="3.4626765"
-     y="69.560501"
-     id="text15188-8"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">9</text>
-<text
-     x="3.4494929"
-     y="76.685501"
-     id="text15194-2"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">10</text>
-<text
-     x="3.3986602"
-     y="84.185501"
-     id="text15196-1"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">11</text>
-<text
-     x="3.4509578"
-     y="91.310997"
-     id="text15198-98"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">12</text>
-<text
-     x="9.2594976"
-     y="72.183601"
-     id="text15221-64"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">DPFS</text>
-<text
-     x="9.2189989"
-     y="79.486298"
-     id="text15223-4"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">VDD_IO</text>
-<text
-     x="9.2594976"
-     y="86.568802"
-     id="text15225-8"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PB08</text>
-<text
-     x="9.2189989"
-     y="93.871597"
-     id="text15227-2"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PC05</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-8"
-     y2="99.922997"
-     x2="7.1899981"
-     y1="99.922997"
-     x1="-0.010000709" /><text
-     x="3.4409556"
-     y="98.533997"
-     id="text15198-9-0"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">13</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-7"
-     y2="107.123"
-     x2="7.189981"
-     y1="107.123"
-     x1="-0.010000709" /><text
-     x="3.4409575"
-     y="105.734"
-     id="text15198-9-6-2"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">14</text>
-<text
-     x="9.179822"
-     y="101.173"
-     id="text15227-9-7"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PC04</text>
-<text
-     x="9.179822"
-     y="108.373"
-     id="text15227-9-9-2"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PA30</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5-4"
-     y2="63.909401"
-     x2="7.1899981"
-     y1="63.909401"
-     x1="-0.010000709" /><text
-     x="3.4526763"
-     y="62.3699"
-     id="text15188-0-6"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">8</text>
-<text
-     x="9.2494974"
-     y="64.992996"
-     id="text15221-6-6"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">DMFS</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163-30"
-     y2="128.69998"
-     x2="7.1999998"
-     y1="128.69998"
-     x1="-4.0547858e-09" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-2"
-     y2="121.49998"
-     x2="7.1999998"
-     y1="121.49998"
-     x1="-4.0547858e-09" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-4"
-     y2="143.09998"
-     x2="7.1999998"
-     y1="143.09998"
-     x1="-4.0547858e-09" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169-1"
-     y2="135.89998"
-     x2="7.1999998"
-     y1="135.89998"
-     x1="-4.0547858e-09" /><text
-     x="3.4626765"
-     y="119.96049"
-     id="text15188-06"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">16</text>
-<text
-     x="3.4494929"
-     y="127.08549"
-     id="text15194-7"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">17</text>
-<text
-     x="3.3986597"
-     y="134.58548"
-     id="text15196-3"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">18</text>
-<text
-     x="3.4509578"
-     y="141.71098"
-     id="text15198-7"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">19</text>
-<text
-     x="9.2594995"
-     y="122.58359"
-     id="text15221-5"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PB10</text>
-<text
-     x="9.2189999"
-     y="129.88628"
-     id="text15223-2"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PB09</text>
-<text
-     x="9.2594995"
-     y="136.96878"
-     id="text15225-87"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PC02</text>
-<text
-     x="9.2189999"
-     y="144.27158"
-     id="text15227-3"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PC03</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-7"
-     y2="150.32298"
-     x2="7.1899986"
-     y1="150.32298"
-     x1="-0.010000709" /><text
-     x="3.4409566"
-     y="148.93398"
-     id="text15198-9-5"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">20</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-2"
-     y2="157.52298"
-     x2="7.1899805"
-     y1="157.52298"
-     x1="-0.010000709" /><text
-     x="3.4409575"
-     y="156.13399"
-     id="text15198-9-6-3"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">21</text>
-<text
-     x="9.1798239"
-     y="151.57298"
-     id="text15227-9-2"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">GND_IO</text>
-<text
-     x="9.1798239"
-     y="158.77298"
-     id="text15227-9-9-0"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">VDD_IO</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5-8"
-     y2="114.30939"
-     x2="7.1899977"
-     y1="114.30939"
-     x1="-0.010000709" /><text
-     x="3.4526763"
-     y="112.76988"
-     id="text15188-0-2"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">15</text>
-<text
-     x="9.2494993"
-     y="115.39297"
-     id="text15221-6-1"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PA02</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163-3-7"
-     y2="178.19998"
-     x2="7.1999979"
-     y1="178.19998"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-1-4"
-     y2="170.99998"
-     x2="7.1999979"
-     y1="170.99998"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-6-0"
-     y2="192.59999"
-     x2="7.1999979"
-     y1="192.59999"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169-9-9"
-     y2="185.39999"
-     x2="7.1999979"
-     y1="185.39999"
-     x1="-4.8089197e-07" /><text
-     x="3.4626765"
-     y="169.46048"
-     id="text15188-8-9"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">23</text>
-<text
-     x="3.4494929"
-     y="176.58548"
-     id="text15194-2-6"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">24</text>
-<text
-     x="3.3986597"
-     y="184.08549"
-     id="text15196-1-7"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">25</text>
-<text
-     x="3.4509578"
-     y="191.21098"
-     id="text15198-98-4"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">26</text>
-<text
-     x="9.2594976"
-     y="172.08359"
-     id="text15221-64-6"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PA29</text>
-<text
-     x="9.2189989"
-     y="179.38629"
-     id="text15223-4-0"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PB03</text>
-<text
-     x="9.2594976"
-     y="186.4688"
-     id="text15225-8-9"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PB02</text>
-<text
-     x="9.2189989"
-     y="193.77159"
-     id="text15227-2-7"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PA27</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-8-2"
-     y2="199.82298"
-     x2="7.1899977"
-     y1="199.82298"
-     x1="-0.010000709" /><text
-     x="3.4409556"
-     y="198.43399"
-     id="text15198-9-0-5"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">27</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-7-7"
-     y2="207.02299"
-     x2="7.1899805"
-     y1="207.02299"
-     x1="-0.010000709" /><text
-     x="3.4409575"
-     y="205.63399"
-     id="text15198-9-6-2-5"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">28</text>
-<text
-     x="9.179822"
-     y="201.07298"
-     id="text15227-9-7-3"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PB01</text>
-<text
-     x="9.179822"
-     y="208.27299"
-     id="text15227-9-9-2-2"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PA28</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5-4-7"
-     y2="163.80939"
-     x2="7.1899977"
-     y1="163.80939"
-     x1="-0.010000709" /><text
-     x="3.4526763"
-     y="162.26988"
-     id="text15188-0-6-3"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">22</text>
-<text
-     x="9.2494984"
-     y="164.89297"
-     id="text15221-6-6-0"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PB04</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163-32"
-     y2="228.60002"
-     x2="7.2000008"
-     y1="228.60002"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-55"
-     y2="221.40002"
-     x2="7.2000008"
-     y1="221.40002"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-5"
-     y2="243.00003"
-     x2="7.2000008"
-     y1="243.00003"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169-7"
-     y2="235.80003"
-     x2="7.2000008"
-     y1="235.80003"
-     x1="-4.8089197e-07" /><text
-     x="3.4626768"
-     y="219.86053"
-     id="text15188-7"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">30</text>
-<text
-     x="3.4494932"
-     y="226.98553"
-     id="text15194-5"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">31</text>
-<text
-     x="3.3986602"
-     y="234.48553"
-     id="text15196-0"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">32</text>
-<text
-     x="3.450958"
-     y="241.61104"
-     id="text15198-8"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">33</text>
-<text
-     x="9.2594995"
-     y="222.48363"
-     id="text15221-2"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PB00</text>
-<text
-     x="9.2189989"
-     y="229.78633"
-     id="text15223-6"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PB11</text>
-<text
-     x="9.2594995"
-     y="236.86884"
-     id="text15225-1"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX16</text>
-<text
-     x="9.2189989"
-     y="244.17163"
-     id="text15227-4"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX13</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-77"
-     y2="250.22304"
-     x2="7.1899986"
-     y1="250.22304"
-     x1="-0.010000709" /><text
-     x="3.4409578"
-     y="248.83403"
-     id="text15198-9-1"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">34</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-26"
-     y2="257.423"
-     x2="7.1899815"
-     y1="257.423"
-     x1="-0.010000709" /><text
-     x="3.4409578"
-     y="256.034"
-     id="text15198-9-6-33"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">35</text>
-<text
-     x="9.1798239"
-     y="251.47304"
-     id="text15227-9-5"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX12</text>
-<text
-     x="9.1798239"
-     y="258.673"
-     id="text15227-9-9-5"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX19</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5-84"
-     y2="214.20943"
-     x2="7.1899986"
-     y1="214.20943"
-     x1="-0.010000709" /><text
-     x="3.4526765"
-     y="212.66992"
-     id="text15188-0-0"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">29</text>
-<text
-     x="9.2494993"
-     y="215.29303"
-     id="text15221-6-3"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PA31</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163-3-70"
-     y2="278.10001"
-     x2="7.1999989"
-     y1="278.10001"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-1-6"
-     y2="270.89999"
-     x2="7.1999989"
-     y1="270.89999"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-6-9"
-     y2="292.5"
-     x2="7.1999989"
-     y1="292.5"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169-9-3"
-     y2="285.30002"
-     x2="7.1999989"
-     y1="285.30002"
-     x1="-4.8089197e-07" /><text
-     x="3.4626768"
-     y="269.36053"
-     id="text15188-8-0"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">37</text>
-<text
-     x="3.4494932"
-     y="276.4855"
-     id="text15194-2-60"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">38</text>
-<text
-     x="3.3986602"
-     y="283.9855"
-     id="text15196-1-6"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">39</text>
-<text
-     x="3.450958"
-     y="291.11102"
-     id="text15198-98-47"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">40</text>
-<text
-     x="9.2594976"
-     y="271.98361"
-     id="text15221-64-3"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX10</text>
-<text
-     x="9.2189989"
-     y="279.28632"
-     id="text15223-4-6"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX35</text>
-<text
-     x="9.2594976"
-     y="286.3688"
-     id="text15225-8-8"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX47</text>
-<text
-     x="9.2189989"
-     y="293.6716"
-     id="text15227-2-6"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX15</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-8-4"
-     y2="299.72302"
-     x2="7.1899986"
-     y1="299.72302"
-     x1="-0.010000709" /><text
-     x="3.4409559"
-     y="298.33401"
-     id="text15198-9-0-9"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">41</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-7-0"
-     y2="306.92303"
-     x2="7.1899815"
-     y1="306.92303"
-     x1="-0.010000709" /><text
-     x="3.4409578"
-     y="305.53403"
-     id="text15198-9-6-2-4"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">42</text>
-<text
-     x="9.179822"
-     y="300.97302"
-     id="text15227-9-7-8"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX48</text>
-<text
-     x="9.179822"
-     y="308.17303"
-     id="text15227-9-9-2-3"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX53</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5-4-8"
-     y2="263.70941"
-     x2="7.1899986"
-     y1="263.70941"
-     x1="-0.010000709" /><text
-     x="3.4526765"
-     y="262.16989"
-     id="text15188-0-6-6"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">36</text>
-<text
-     x="9.2494974"
-     y="264.793"
-     id="text15221-6-6-7"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX40</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163-30-1"
-     y2="328.5"
-     x2="7.2000008"
-     y1="328.5"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-2-2"
-     y2="321.29999"
-     x2="7.2000008"
-     y1="321.29999"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-4-4"
-     y2="342.89999"
-     x2="7.2000008"
-     y1="342.89999"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169-1-1"
-     y2="335.69998"
-     x2="7.2000008"
-     y1="335.69998"
-     x1="-4.8089197e-07" /><text
-     x="3.4626768"
-     y="319.7605"
-     id="text15188-06-6"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">44</text>
-<text
-     x="3.4494932"
-     y="326.8855"
-     id="text15194-7-7"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">45</text>
-<text
-     x="3.3986602"
-     y="334.3855"
-     id="text15196-3-7"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">46</text>
-<text
-     x="3.450958"
-     y="341.51099"
-     id="text15198-7-5"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">47</text>
-<text
-     x="9.2594995"
-     y="322.38361"
-     id="text15221-5-7"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX36</text>
-<text
-     x="9.2189989"
-     y="329.68628"
-     id="text15223-2-5"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX37</text>
-<text
-     x="9.2594995"
-     y="336.7688"
-     id="text15225-87-4"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX54</text>
-<text
-     x="9.2189989"
-     y="344.07159"
-     id="text15227-3-2"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">GND_IO</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-7-6"
-     y2="350.12299"
-     x2="7.1899986"
-     y1="350.12299"
-     x1="-0.010000709" /><text
-     x="3.4409578"
-     y="348.73398"
-     id="text15198-9-5-1"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">48</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-2-2"
-     y2="357.323"
-     x2="7.1899815"
-     y1="357.323"
-     x1="-0.010000709" /><text
-     x="3.4409578"
-     y="355.93399"
-     id="text15198-9-6-3-4"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">49</text>
-<text
-     x="9.1798239"
-     y="351.37299"
-     id="text15227-9-2-7"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">VDD_IO</text>
-<text
-     x="9.1798239"
-     y="358.573"
-     id="text15227-9-9-0-1"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5-8-7"
-     y2="314.10941"
-     x2="7.1899986"
-     y1="314.10941"
-     x1="-0.010000709" /><text
-     x="3.4526765"
-     y="312.56992"
-     id="text15188-0-2-5"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">43</text>
-<text
-     x="9.2494993"
-     y="315.19299"
-     id="text15221-6-1-9"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX49</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163-3-7-5"
-     y2="378"
-     x2="7.1999989"
-     y1="378"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-1-4-1"
-     y2="370.79999"
-     x2="7.1999989"
-     y1="370.79999"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-6-0-0"
-     y2="392.39999"
-     x2="7.1999989"
-     y1="392.39999"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169-9-9-7"
-     y2="385.20001"
-     x2="7.1999989"
-     y1="385.20001"
-     x1="-4.8089197e-07" /><text
-     x="3.4626768"
-     y="369.2605"
-     id="text15188-8-9-5"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">51</text>
-<text
-     x="3.4494932"
-     y="376.3855"
-     id="text15194-2-6-1"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">52</text>
-<text
-     x="3.3986602"
-     y="383.8855"
-     id="text15196-1-7-1"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">53</text>
-<text
-     x="3.450958"
-     y="391.01099"
-     id="text15198-98-4-5"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">54</text>
-<text
-     x="9.2594976"
-     y="371.88361"
-     id="text15221-64-6-7"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="9.2189989"
-     y="379.18631"
-     id="text15223-4-0-0"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="9.2594976"
-     y="386.2688"
-     id="text15225-8-9-6"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="9.2189989"
-     y="393.57159"
-     id="text15227-2-7-1"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-8-2-4"
-     y2="399.62299"
-     x2="7.1899986"
-     y1="399.62299"
-     x1="-0.010000709" /><text
-     x="3.4409559"
-     y="398.23398"
-     id="text15198-9-0-5-0"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">55</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-7-7-8"
-     y2="406.823"
-     x2="7.1899815"
-     y1="406.823"
-     x1="-0.010000709" /><text
-     x="3.4409578"
-     y="405.43399"
-     id="text15198-9-6-2-5-1"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">56</text>
-<text
-     x="9.179822"
-     y="400.87299"
-     id="text15227-9-7-3-9"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="9.179822"
-     y="408.073"
-     id="text15227-9-9-2-2-5"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5-4-7-0"
-     y2="363.60941"
-     x2="7.1899986"
-     y1="363.60941"
-     x1="-0.010000709" /><text
-     x="3.4526765"
-     y="362.06989"
-     id="text15188-0-6-3-4"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">50</text>
-<text
-     x="9.2494974"
-     y="364.69299"
-     id="text15221-6-6-0-0"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163-2"
-     y2="28.80003"
-     x2="151.40021"
-     y1="28.80003"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-23"
-     y2="21.600033"
-     x2="151.40021"
-     y1="21.600033"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-48"
-     y2="43.200024"
-     x2="151.40021"
-     y1="43.200024"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169-2"
-     y2="36.000023"
-     x2="151.40021"
-     y1="36.000023"
-     x1="144.20021" /><text
-     x="146.10649"
-     y="20.060528"
-     id="text15188-6"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">74</text>
-<text
-     x="146.14676"
-     y="27.185528"
-     id="text15194-6"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">75</text>
-<text
-     x="146.08128"
-     y="34.685524"
-     id="text15196-9"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">76</text>
-<text
-     x="146.13652"
-     y="41.811024"
-     id="text15198-71"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">77</text>
-<text
-     x="141.09837"
-     y="22.683628"
-     id="text15221-0"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.05788"
-     y="29.986332"
-     id="text15223-0"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.09837"
-     y="37.068825"
-     id="text15225-9"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.05788"
-     y="44.371624"
-     id="text15227-8"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-1"
-     y2="50.423023"
-     x2="151.3902"
-     y1="50.423023"
-     x1="144.1902" /><text
-     x="146.13091"
-     y="49.034023"
-     id="text15198-9-2"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">78</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-3"
-     y2="57.623024"
-     x2="151.39018"
-     y1="57.623024"
-     x1="144.1902" /><text
-     x="146.12799"
-     y="56.234024"
-     id="text15198-9-6-0"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">79</text>
-<text
-     x="141.01869"
-     y="51.673023"
-     id="text15227-9-22"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.01869"
-     y="58.873024"
-     id="text15227-9-9-28"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5-2"
-     y2="14.409425"
-     x2="151.3902"
-     y1="14.409425"
-     x1="144.1902" /><text
-     x="146.15581"
-     y="12.869927"
-     id="text15188-0-20"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">73</text>
-<text
-     x="141.08838"
-     y="15.493028"
-     id="text15221-6-37"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163-3-2"
-     y2="78.300026"
-     x2="151.40021"
-     y1="78.300026"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-1-7"
-     y2="71.100021"
-     x2="151.40021"
-     y1="71.100021"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-6-95"
-     y2="92.700027"
-     x2="151.40021"
-     y1="92.700027"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169-9-2"
-     y2="85.500031"
-     x2="151.40021"
-     y1="85.500031"
-     x1="144.20021" /><text
-     x="146.3936"
-     y="69.560524"
-     id="text15188-8-4"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">81</text>
-<text
-     x="146.16287"
-     y="76.685532"
-     id="text15194-2-9"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">82</text>
-<text
-     x="146.11351"
-     y="84.185532"
-     id="text15196-1-0"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">83</text>
-<text
-     x="146.10649"
-     y="91.311028"
-     id="text15198-98-6"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">84</text>
-<text
-     x="141.09837"
-     y="72.183624"
-     id="text15221-64-7"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.05788"
-     y="79.486328"
-     id="text15223-4-8"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.09837"
-     y="86.568832"
-     id="text15225-8-5"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.05788"
-     y="93.871628"
-     id="text15227-2-70"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-8-8"
-     y2="99.923027"
-     x2="151.3902"
-     y1="99.923027"
-     x1="144.1902" /><text
-     x="146.14995"
-     y="98.534027"
-     id="text15198-9-0-7"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">85</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-7-1"
-     y2="107.12303"
-     x2="151.39018"
-     y1="107.12303"
-     x1="144.1902" /><text
-     x="146.1353"
-     y="105.73403"
-     id="text15198-9-6-2-6"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">86</text>
-<text
-     x="141.01869"
-     y="101.17303"
-     id="text15227-9-7-0"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.01869"
-     y="108.37303"
-     id="text15227-9-9-2-39"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5-4-0"
-     y2="63.909424"
-     x2="151.3902"
-     y1="63.909424"
-     x1="144.1902" /><text
-     x="146.14848"
-     y="62.369923"
-     id="text15188-0-6-7"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">80</text>
-<text
-     x="141.08838"
-     y="64.993019"
-     id="text15221-6-6-1"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163-30-4"
-     y2="128.7"
-     x2="151.40021"
-     y1="128.7"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-2-5"
-     y2="121.5"
-     x2="151.40021"
-     y1="121.5"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-4-5"
-     y2="143.09999"
-     x2="151.40021"
-     y1="143.09999"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169-1-6"
-     y2="135.89999"
-     x2="151.40021"
-     y1="135.89999"
-     x1="144.20021" /><text
-     x="146.16434"
-     y="119.96051"
-     id="text15188-06-7"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">88</text>
-<text
-     x="146.14822"
-     y="127.08551"
-     id="text15194-7-8"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">89</text>
-<text
-     x="146.09447"
-     y="134.58551"
-     id="text15196-3-6"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">90</text>
-<text
-     x="146.38187"
-     y="141.711"
-     id="text15198-7-0"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">91</text>
-<text
-     x="141.09837"
-     y="122.58361"
-     id="text15221-5-8"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.05788"
-     y="129.88631"
-     id="text15223-2-7"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.09837"
-     y="136.96881"
-     id="text15225-87-7"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.05788"
-     y="144.27159"
-     id="text15227-3-22"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-7-8"
-     y2="150.323"
-     x2="151.3902"
-     y1="150.323"
-     x1="144.1902" /><text
-     x="146.15434"
-     y="148.93399"
-     id="text15198-9-5-2"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">92</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-2-0"
-     y2="157.52301"
-     x2="151.39018"
-     y1="157.52301"
-     x1="144.1902" /><text
-     x="146.15581"
-     y="156.134"
-     id="text15198-9-6-3-6"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">93</text>
-<text
-     x="141.01869"
-     y="151.573"
-     id="text15227-9-2-1"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.01869"
-     y="158.77301"
-     id="text15227-9-9-0-8"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5-8-5"
-     y2="114.30941"
-     x2="151.3902"
-     y1="114.30941"
-     x1="144.1902" /><text
-     x="146.14995"
-     y="112.7699"
-     id="text15188-0-2-3"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">87</text>
-<text
-     x="141.08838"
-     y="115.39299"
-     id="text15221-6-1-8"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163-3-7-2"
-     y2="178.20001"
-     x2="151.40021"
-     y1="178.20001"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-1-4-6"
-     y2="171.00002"
-     x2="151.40021"
-     y1="171.00002"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-6-0-4"
-     y2="192.60002"
-     x2="151.40021"
-     y1="192.60002"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169-9-9-2"
-     y2="185.40002"
-     x2="151.40021"
-     y1="185.40002"
-     x1="144.20021" /><text
-     x="146.17166"
-     y="169.46051"
-     id="text15188-8-9-1"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">95</text>
-<text
-     x="146.14383"
-     y="176.58551"
-     id="text15194-2-6-5"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">96</text>
-<text
-     x="146.09593"
-     y="184.08553"
-     id="text15196-1-7-4"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">97</text>
-<text
-     x="146.15262"
-     y="191.21101"
-     id="text15198-98-4-8"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">98</text>
-<text
-     x="141.09837"
-     y="172.08362"
-     id="text15221-64-6-9"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.05788"
-     y="179.38632"
-     id="text15223-4-0-9"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.09837"
-     y="186.46883"
-     id="text15225-8-9-5"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.05788"
-     y="193.77162"
-     id="text15227-2-7-4"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-8-2-7"
-     y2="199.823"
-     x2="151.3902"
-     y1="199.823"
-     x1="144.1902" /><text
-     x="146.13969"
-     y="198.43402"
-     id="text15198-9-0-5-5"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">99</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-7-7-5"
-     y2="207.02303"
-     x2="151.39018"
-     y1="207.02303"
-     x1="144.1902" /><text
-     x="145.36333"
-     y="205.63402"
-     id="text15198-9-6-2-5-5"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">100</text>
-<text
-     x="141.01869"
-     y="201.073"
-     id="text15227-9-7-3-7"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.01869"
-     y="208.27303"
-     id="text15227-9-9-2-2-3"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5-4-7-3"
-     y2="163.8094"
-     x2="151.3902"
-     y1="163.8094"
-     x1="144.1902" /><text
-     x="146.1082"
-     y="162.2699"
-     id="text15188-0-6-3-45"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">94</text>
-<text
-     x="141.08838"
-     y="164.89301"
-     id="text15221-6-6-0-7"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163-32-2"
-     y2="228.60005"
-     x2="151.40021"
-     y1="228.60005"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-55-9"
-     y2="221.40004"
-     x2="151.40021"
-     y1="221.40004"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-5-9"
-     y2="243.00006"
-     x2="151.40021"
-     y1="243.00006"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169-7-0"
-     y2="235.80006"
-     x2="151.40021"
-     y1="235.80006"
-     x1="144.20021" /><text
-     x="145.40262"
-     y="219.86057"
-     id="text15188-7-2"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">102</text>
-<text
-     x="145.3909"
-     y="226.98557"
-     id="text15194-5-9"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">103</text>
-<text
-     x="145.28075"
-     y="234.48557"
-     id="text15196-0-5"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">104</text>
-<text
-     x="145.38652"
-     y="241.61107"
-     id="text15198-8-5"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">105</text>
-<text
-     x="141.09837"
-     y="222.48366"
-     id="text15221-2-7"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.05788"
-     y="229.78636"
-     id="text15223-6-9"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.09837"
-     y="236.86887"
-     id="text15225-1-3"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.05788"
-     y="244.17166"
-     id="text15227-4-1"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-77-3"
-     y2="250.22307"
-     x2="151.3902"
-     y1="250.22307"
-     x1="144.1902" /><text
-     x="145.36186"
-     y="248.83406"
-     id="text15198-9-1-4"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">106</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-26-9"
-     y2="257.42303"
-     x2="151.39018"
-     y1="257.42303"
-     x1="144.1902" /><text
-     x="145.36479"
-     y="256.03403"
-     id="text15198-9-6-33-8"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">107</text>
-<text
-     x="141.01869"
-     y="251.47307"
-     id="text15227-9-5-4"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.01869"
-     y="258.67303"
-     id="text15227-9-9-5-8"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5-84-7"
-     y2="214.20946"
-     x2="151.3902"
-     y1="214.20946"
-     x1="144.1902" /><text
-     x="145.61015"
-     y="212.66994"
-     id="text15188-0-0-0"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">101</text>
-<text
-     x="141.08838"
-     y="215.29306"
-     id="text15221-6-3-2"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163-3-70-6"
-     y2="278.10004"
-     x2="151.40021"
-     y1="278.10004"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-1-6-7"
-     y2="270.90002"
-     x2="151.40021"
-     y1="270.90002"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-6-9-9"
-     y2="292.50003"
-     x2="151.40021"
-     y1="292.50003"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169-9-3-2"
-     y2="285.30005"
-     x2="151.40021"
-     y1="285.30005"
-     x1="144.20021" /><text
-     x="145.38797"
-     y="269.36057"
-     id="text15188-8-0-4"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">109</text>
-<text
-     x="145.37186"
-     y="276.48553"
-     id="text15194-2-60-4"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">110</text>
-<text
-     x="145.55614"
-     y="283.98553"
-     id="text15196-1-6-5"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">111</text>
-<text
-     x="145.3909"
-     y="291.11105"
-     id="text15198-98-47-0"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">112</text>
-<text
-     x="141.09837"
-     y="271.98364"
-     id="text15221-64-3-1"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.05788"
-     y="279.28635"
-     id="text15223-4-6-4"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.09837"
-     y="286.36884"
-     id="text15225-8-8-4"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.05788"
-     y="293.67163"
-     id="text15227-2-6-1"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-8-4-3"
-     y2="299.72305"
-     x2="151.3902"
-     y1="299.72305"
-     x1="144.1902" /><text
-     x="145.38237"
-     y="298.33405"
-     id="text15198-9-0-9-5"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">113</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-7-0-3"
-     y2="306.92307"
-     x2="151.39018"
-     y1="306.92307"
-     x1="144.1902" /><text
-     x="145.32304"
-     y="305.53406"
-     id="text15198-9-6-2-4-3"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">114</text>
-<text
-     x="141.01869"
-     y="300.97305"
-     id="text15227-9-7-8-2"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.01869"
-     y="308.17307"
-     id="text15227-9-9-2-3-1"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5-4-8-2"
-     y2="263.70944"
-     x2="151.3902"
-     y1="263.70944"
-     x1="144.1902" /><text
-     x="145.38092"
-     y="262.16992"
-     id="text15188-0-6-6-2"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">108</text>
-<text
-     x="141.08838"
-     y="264.79303"
-     id="text15221-6-6-7-4"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163-30-1-6"
-     y2="328.50003"
-     x2="151.40021"
-     y1="328.50003"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-2-2-5"
-     y2="321.30002"
-     x2="151.40021"
-     y1="321.30002"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-4-4-1"
-     y2="342.90002"
-     x2="151.40021"
-     y1="342.90002"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169-1-1-5"
-     y2="335.70001"
-     x2="151.40021"
-     y1="335.70001"
-     x1="144.20021" /><text
-     x="145.38359"
-     y="319.76053"
-     id="text15188-06-6-3"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">116</text>
-<text
-     x="145.37332"
-     y="326.88553"
-     id="text15194-7-7-5"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">117</text>
-<text
-     x="145.32689"
-     y="334.38553"
-     id="text15196-3-7-3"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">118</text>
-<text
-     x="145.37625"
-     y="341.51102"
-     id="text15198-7-5-2"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">119</text>
-<text
-     x="141.09837"
-     y="322.38364"
-     id="text15221-5-7-5"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.05788"
-     y="329.68631"
-     id="text15223-2-5-7"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.09837"
-     y="336.76883"
-     id="text15225-87-4-1"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.05788"
-     y="344.07162"
-     id="text15227-3-2-4"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-7-6-7"
-     y2="350.12302"
-     x2="151.3902"
-     y1="350.12302"
-     x1="144.1902" /><text
-     x="145.36333"
-     y="348.73401"
-     id="text15198-9-5-1-3"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">120</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-2-2-8"
-     y2="357.323"
-     x2="151.39018"
-     y1="357.323"
-     x1="144.1902" /><text
-     x="145.59843"
-     y="355.93402"
-     id="text15198-9-6-3-4-1"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">121</text>
-<text
-     x="141.01869"
-     y="351.37302"
-     id="text15227-9-2-7-0"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.01869"
-     y="358.573"
-     id="text15227-9-9-0-1-8"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5-8-7-3"
-     y2="314.10944"
-     x2="151.3902"
-     y1="314.10944"
-     x1="144.1902" /><text
-     x="145.38823"
-     y="312.56995"
-     id="text15188-0-2-5-4"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">115</text>
-<text
-     x="141.08838"
-     y="315.19302"
-     id="text15221-6-1-9-3"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163-3-7-5-6"
-     y2="378"
-     x2="151.40021"
-     y1="378"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-1-4-1-9"
-     y2="370.79999"
-     x2="151.40021"
-     y1="370.79999"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-6-0-0-0"
-     y2="392.39999"
-     x2="151.40021"
-     y1="392.39999"
-     x1="144.20021" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169-9-9-7-1"
-     y2="385.20001"
-     x2="151.40021"
-     y1="385.20001"
-     x1="144.20021" /><text
-     x="145.40408"
-     y="369.2605"
-     id="text15188-8-9-5-2"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">123</text>
-<text
-     x="145.33157"
-     y="376.3855"
-     id="text15194-2-6-1-2"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">124</text>
-<text
-     x="145.33421"
-     y="383.8855"
-     id="text15196-1-7-1-2"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">125</text>
-<text
-     x="145.37186"
-     y="391.01099"
-     id="text15198-98-4-5-5"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">126</text>
-<text
-     x="141.09837"
-     y="371.88361"
-     id="text15221-64-6-7-6"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.05788"
-     y="379.18631"
-     id="text15223-4-0-0-9"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.09837"
-     y="386.2688"
-     id="text15225-8-9-6-3"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.05788"
-     y="393.57159"
-     id="text15227-2-7-1-2"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-8-2-4-2"
-     y2="399.62299"
-     x2="151.3902"
-     y1="399.62299"
-     x1="144.1902" /><text
-     x="145.36478"
-     y="398.23398"
-     id="text15198-9-0-5-0-8"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">127</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-7-7-8-7"
-     y2="406.823"
-     x2="151.39018"
-     y1="406.823"
-     x1="144.1902" /><text
-     x="145.36919"
-     y="405.43399"
-     id="text15198-9-6-2-5-1-7"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">128</text>
-<text
-     x="141.01869"
-     y="400.87299"
-     id="text15227-9-7-3-9-1"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="141.01869"
-     y="408.073"
-     id="text15227-9-9-2-2-5-2"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5-4-7-0-5"
-     y2="363.60941"
-     x2="151.3902"
-     y1="363.60941"
-     x1="144.1902" /><text
-     x="145.39262"
-     y="362.06989"
-     id="text15188-0-6-3-4-0"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">122</text>
-<text
-     x="141.08838"
-     y="364.69299"
-     id="text15221-6-6-0-0-3"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-8-4-9"
-     y2="414.02301"
-     x2="7.1899981"
-     y1="414.02301"
-     x1="-0.010000709" /><text
-     x="3.4409559"
-     y="412.634"
-     id="text15198-9-0-9-9"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">57</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-7-0-8"
-     y2="421.22302"
-     x2="7.189981"
-     y1="421.22302"
-     x1="-0.010000709" /><text
-     x="3.4409578"
-     y="419.83401"
-     id="text15198-9-6-2-4-8"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">58</text>
-<text
-     x="9.179821"
-     y="415.27301"
-     id="text15227-9-7-8-1"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="9.179821"
-     y="422.47302"
-     id="text15227-9-9-2-3-8"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163-30-1-8"
-     y2="442.79999"
-     x2="7.2000003"
-     y1="442.79999"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-2-2-6"
-     y2="435.59998"
-     x2="7.2000003"
-     y1="435.59998"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-4-4-2"
-     y2="457.19998"
-     x2="7.2000003"
-     y1="457.19998"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169-1-1-3"
-     y2="449.99997"
-     x2="7.2000003"
-     y1="449.99997"
-     x1="-4.8089197e-07" /><text
-     x="3.4626768"
-     y="434.06049"
-     id="text15188-06-6-2"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">60</text>
-<text
-     x="3.4494932"
-     y="441.18549"
-     id="text15194-7-7-3"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">61</text>
-<text
-     x="3.3986602"
-     y="448.68549"
-     id="text15196-3-7-35"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">62</text>
-<text
-     x="3.450958"
-     y="455.81097"
-     id="text15198-7-5-6"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">63</text>
-<text
-     x="9.2594986"
-     y="436.68359"
-     id="text15221-5-7-8"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="9.218998"
-     y="443.98627"
-     id="text15223-2-5-0"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="9.2594986"
-     y="451.06879"
-     id="text15225-87-4-3"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="9.218998"
-     y="458.37158"
-     id="text15227-3-2-41"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-7-6-6"
-     y2="464.42297"
-     x2="7.1899981"
-     y1="464.42297"
-     x1="-0.010000709" /><text
-     x="3.4409578"
-     y="463.03397"
-     id="text15198-9-5-1-8"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">64</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-2-2-3"
-     y2="471.62299"
-     x2="7.189981"
-     y1="471.62299"
-     x1="-0.010000709" /><text
-     x="3.4409578"
-     y="470.23398"
-     id="text15198-9-6-3-4-6"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">65</text>
-<text
-     x="9.1798229"
-     y="465.67297"
-     id="text15227-9-2-7-8"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="9.1798229"
-     y="472.87299"
-     id="text15227-9-9-0-1-0"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5-8-7-9"
-     y2="428.40939"
-     x2="7.1899981"
-     y1="428.40939"
-     x1="-0.010000709" /><text
-     x="3.4526765"
-     y="426.8699"
-     id="text15188-0-2-5-0"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">59</text>
-<text
-     x="9.2494984"
-     y="429.49298"
-     id="text15221-6-1-9-5"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163-3-7-5-9"
-     y2="493.20001"
-     x2="7.1999984"
-     y1="493.20001"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-1-4-1-5"
-     y2="486"
-     x2="7.1999984"
-     y1="486"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-6-0-0-5"
-     y2="507.60001"
-     x2="7.1999984"
-     y1="507.60001"
-     x1="-4.8089197e-07" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169-9-9-7-9"
-     y2="500.40002"
-     x2="7.1999984"
-     y1="500.40002"
-     x1="-4.8089197e-07" /><text
-     x="3.4626768"
-     y="484.46051"
-     id="text15188-8-9-5-3"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">67</text>
-<text
-     x="3.4494932"
-     y="491.58551"
-     id="text15194-2-6-1-5"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">68</text>
-<text
-     x="3.3986602"
-     y="499.08551"
-     id="text15196-1-7-1-23"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">69</text>
-<text
-     x="3.450958"
-     y="506.211"
-     id="text15198-98-4-5-58"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">70</text>
-<text
-     x="9.2594967"
-     y="487.08362"
-     id="text15221-64-6-7-5"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="9.218998"
-     y="494.38632"
-     id="text15223-4-0-0-1"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="9.2594967"
-     y="501.46881"
-     id="text15225-8-9-6-2"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="9.218998"
-     y="508.77161"
-     id="text15227-2-7-1-0"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-8-2-4-6"
-     y2="514.823"
-     x2="7.1899981"
-     y1="514.823"
-     x1="-0.010000709" /><text
-     x="3.4409559"
-     y="513.43396"
-     id="text15198-9-0-5-0-7"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">71</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-7-7-8-6"
-     y2="522.02301"
-     x2="7.189981"
-     y1="522.02301"
-     x1="-0.010000709" /><text
-     x="3.4409578"
-     y="520.63403"
-     id="text15198-9-6-2-5-1-4"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">72</text>
-<text
-     x="9.179821"
-     y="516.073"
-     id="text15227-9-7-3-9-9"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="9.179821"
-     y="523.27301"
-     id="text15227-9-9-2-2-5-1"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5-4-7-0-1"
-     y2="478.80942"
-     x2="7.1899981"
-     y1="478.80942"
-     x1="-0.010000709" /><text
-     x="3.4526765"
-     y="477.2699"
-     id="text15188-0-6-3-4-09"
-     style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">66</text>
-<text
-     x="9.2494965"
-     y="479.89301"
-     id="text15221-6-6-0-0-1"
-     style="font-size:4.5px;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-8-4-3-8"
-     y2="414.02304"
-     x2="151.17491"
-     y1="414.02304"
-     x1="143.97491" /><text
-     x="145.15097"
-     y="412.63403"
-     id="text15198-9-0-9-5-3"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">129</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-7-0-3-8"
-     y2="421.22305"
-     x2="151.1749"
-     y1="421.22305"
-     x1="143.97491" /><text
-     x="145.14804"
-     y="419.83405"
-     id="text15198-9-6-2-4-3-6"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">130</text>
-<text
-     x="140.80342"
-     y="415.27304"
-     id="text15227-9-7-8-2-0"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="140.80342"
-     y="422.47305"
-     id="text15227-9-9-2-3-1-3"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163-30-1-6-8"
-     y2="442.80002"
-     x2="151.18491"
-     y1="442.80002"
-     x1="143.98491" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-2-2-5-4"
-     y2="435.60001"
-     x2="151.18491"
-     y1="435.60001"
-     x1="143.98491" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-4-4-1-5"
-     y2="457.20001"
-     x2="151.18491"
-     y1="457.20001"
-     x1="143.98491" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169-1-1-5-4"
-     y2="450"
-     x2="151.18491"
-     y1="450"
-     x1="143.98491" /><text
-     x="145.18733"
-     y="434.06052"
-     id="text15188-06-6-3-9"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">132</text>
-<text
-     x="145.17561"
-     y="441.18552"
-     id="text15194-7-7-5-3"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">133</text>
-<text
-     x="145.06546"
-     y="448.68552"
-     id="text15196-3-7-3-3"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">134</text>
-<text
-     x="145.17122"
-     y="455.811"
-     id="text15198-7-5-2-1"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">135</text>
-<text
-     x="140.88309"
-     y="436.68362"
-     id="text15221-5-7-5-8"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="140.84259"
-     y="443.9863"
-     id="text15223-2-5-7-6"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="140.88309"
-     y="451.06882"
-     id="text15225-87-4-1-5"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="140.84259"
-     y="458.37161"
-     id="text15227-3-2-4-1"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-7-6-7-8"
-     y2="464.423"
-     x2="151.17491"
-     y1="464.423"
-     x1="143.97491" /><text
-     x="145.14659"
-     y="463.034"
-     id="text15198-9-5-1-3-6"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">136</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-2-2-8-6"
-     y2="471.62299"
-     x2="151.1749"
-     y1="471.62299"
-     x1="143.97491" /><text
-     x="145.14952"
-     y="470.23401"
-     id="text15198-9-6-3-4-1-9"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">137</text>
-<text
-     x="140.80342"
-     y="465.673"
-     id="text15227-9-2-7-0-7"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="140.80342"
-     y="472.87299"
-     id="text15227-9-9-0-1-8-0"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5-8-7-3-1"
-     y2="428.40942"
-     x2="151.17491"
-     y1="428.40942"
-     x1="143.97491" /><text
-     x="145.39487"
-     y="426.86993"
-     id="text15188-0-2-5-4-8"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">131</text>
-<text
-     x="140.87309"
-     y="429.49301"
-     id="text15221-6-1-9-3-3"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15163-3-7-5-6-8"
-     y2="493.20001"
-     x2="151.18491"
-     y1="493.20001"
-     x1="143.98491" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-1-4-1-9-7"
-     y2="486"
-     x2="151.18491"
-     y1="486"
-     x1="143.98491" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-6-0-0-0-0"
-     y2="507.60001"
-     x2="151.18491"
-     y1="507.60001"
-     x1="143.98491" /><line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15169-9-9-7-1-8"
-     y2="500.40002"
-     x2="151.18491"
-     y1="500.40002"
-     x1="143.98491" /><text
-     x="145.17268"
-     y="484.46051"
-     id="text15188-8-9-5-2-7"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">139</text>
-<text
-     x="145.15657"
-     y="491.58551"
-     id="text15194-2-6-1-2-3"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">140</text>
-<text
-     x="145.34085"
-     y="499.08551"
-     id="text15196-1-7-1-2-9"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">141</text>
-<text
-     x="145.17561"
-     y="506.211"
-     id="text15198-98-4-5-5-6"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">142</text>
-<text
-     x="140.88309"
-     y="487.08362"
-     id="text15221-64-6-7-6-5"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="140.84259"
-     y="494.38632"
-     id="text15223-4-0-0-9-2"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="140.88309"
-     y="501.46881"
-     id="text15225-8-9-6-3-6"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="140.84259"
-     y="508.77161"
-     id="text15227-2-7-1-2-2"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-8-2-4-2-9"
-     y2="514.823"
-     x2="151.17491"
-     y1="514.823"
-     x1="143.97491" /><text
-     x="145.16708"
-     y="513.43396"
-     id="text15198-9-0-5-0-8-0"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">143</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15167-1-4-7-7-8-7-1"
-     y2="522.02301"
-     x2="151.1749"
-     y1="522.02301"
-     x1="143.97491" /><text
-     x="145.10776"
-     y="520.63397"
-     id="text15198-9-6-2-5-1-7-4"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">144</text>
-<text
-     x="140.80342"
-     y="516.073"
-     id="text15227-9-7-3-9-1-6"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<text
-     x="140.80342"
-     y="523.27301"
-     id="text15227-9-9-2-2-5-2-5"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
-<line
-     style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
-     id="line15165-5-4-7-0-5-4"
-     y2="478.80942"
-     x2="151.17491"
-     y1="478.80942"
-     x1="143.97491" /><text
-     x="145.16562"
-     y="477.2699"
-     id="text15188-0-6-3-4-0-2"
-     style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">138</text>
-<text
-     x="140.87309"
-     y="479.89301"
-     id="text15221-6-6-0-0-3-2"
-     style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">In</text>
+   width="136.5218"
+   height="518.92731"
+   x="7.1999998"
+   y="7.1999998"
+   id="part_symbol"
+   style="fill:#ffffff;stroke:#000000;stroke-width:1.35000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163"
+   y2="28.799999"
+   x2="7.1999998"
+   y1="28.799999"
+   x1="0" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165"
+   y2="21.6"
+   x2="7.1999998"
+   y1="21.6"
+   x1="0" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167"
+   y2="43.200001"
+   x2="7.1999998"
+   y1="43.200001"
+   x1="-5.0980877e-09" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169"
+   y2="36"
+   x2="7.1999998"
+   y1="36"
+   x1="0" /><text
+   x="3.4626765"
+   y="20.060499"
+   id="text15188"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">2</text>
+
+<text
+   x="3.4494929"
+   y="27.185499"
+   id="text15194"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">3</text>
+
+<text
+   x="3.3986602"
+   y="34.685501"
+   id="text15196"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">4</text>
+
+<text
+   x="3.4509578"
+   y="41.811001"
+   id="text15198"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">5</text>
+
+<text
+   x="9.2594995"
+   y="22.683599"
+   id="text15221"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">VDDIO</text>
+
+<text
+   x="9.2189999"
+   y="29.9863"
+   id="text15223"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">USB_VBIAS</text>
+
+<text
+   x="9.2594995"
+   y="37.068802"
+   id="text15225"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">GNDIO</text>
+
+<text
+   x="9.2189999"
+   y="44.371601"
+   id="text15227"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">DMHS</text>
+
+<text
+   x="44.354671"
+   y="277.2626"
+   id="text15235"
+   style="font-size:8px;font-family:DroidSans">AT32UC3A3256S</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1"
+   y2="50.423"
+   x2="7.1899986"
+   y1="50.423"
+   x1="-0.010000709" /><text
+   x="3.4409568"
+   y="49.034"
+   id="text15198-9"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">6</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4"
+   y2="57.623001"
+   x2="7.189981"
+   y1="57.623001"
+   x1="-0.010000709" /><text
+   x="3.4409575"
+   y="56.234001"
+   id="text15198-9-6"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">7</text>
+
+<text
+   x="9.1798239"
+   y="51.673"
+   id="text15227-9"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">DPHS</text>
+
+<text
+   x="9.1798239"
+   y="58.873001"
+   id="text15227-9-9"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">GNDIO</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5"
+   y2="14.409401"
+   x2="7.1899981"
+   y1="14.409401"
+   x1="-0.010000709" /><text
+   x="3.4526763"
+   y="12.869899"
+   id="text15188-0"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">1</text>
+
+<text
+   x="9.2494993"
+   y="15.493"
+   id="text15221-6"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">USB_VBUS</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163-3"
+   y2="78.299995"
+   x2="7.1999984"
+   y1="78.299995"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-1"
+   y2="71.099998"
+   x2="7.1999984"
+   y1="71.099998"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-6"
+   y2="92.699997"
+   x2="7.1999984"
+   y1="92.699997"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169-9"
+   y2="85.5"
+   x2="7.1999984"
+   y1="85.5"
+   x1="-4.8089197e-07" /><text
+   x="3.4626765"
+   y="69.560501"
+   id="text15188-8"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">9</text>
+
+<text
+   x="3.4494929"
+   y="76.685501"
+   id="text15194-2"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">10</text>
+
+<text
+   x="3.3986602"
+   y="84.185501"
+   id="text15196-1"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">11</text>
+
+<text
+   x="3.4509578"
+   y="91.310997"
+   id="text15198-98"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">12</text>
+
+<text
+   x="9.2594976"
+   y="72.183601"
+   id="text15221-64"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">DPFS</text>
+
+<text
+   x="9.2189989"
+   y="79.486298"
+   id="text15223-4"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">VDDIO</text>
+
+<text
+   x="9.2594976"
+   y="86.568802"
+   id="text15225-8"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PB08</text>
+
+<text
+   x="9.2189989"
+   y="93.871597"
+   id="text15227-2"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PC05</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-8"
+   y2="99.922997"
+   x2="7.1899981"
+   y1="99.922997"
+   x1="-0.010000709" /><text
+   x="3.4409556"
+   y="98.533997"
+   id="text15198-9-0"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">13</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-7"
+   y2="107.123"
+   x2="7.189981"
+   y1="107.123"
+   x1="-0.010000709" /><text
+   x="3.4409575"
+   y="105.734"
+   id="text15198-9-6-2"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">14</text>
+
+<text
+   x="9.179822"
+   y="101.173"
+   id="text15227-9-7"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PC04</text>
+
+<text
+   x="9.179822"
+   y="108.373"
+   id="text15227-9-9-2"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PA30</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5-4"
+   y2="63.909401"
+   x2="7.1899981"
+   y1="63.909401"
+   x1="-0.010000709" /><text
+   x="3.4526763"
+   y="62.3699"
+   id="text15188-0-6"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">8</text>
+
+<text
+   x="9.2494974"
+   y="64.992996"
+   id="text15221-6-6"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">DMFS</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163-30"
+   y2="128.69998"
+   x2="7.1999998"
+   y1="128.69998"
+   x1="-4.0547858e-09" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-2"
+   y2="121.49998"
+   x2="7.1999998"
+   y1="121.49998"
+   x1="-4.0547858e-09" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-4"
+   y2="143.09998"
+   x2="7.1999998"
+   y1="143.09998"
+   x1="-4.0547858e-09" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169-1"
+   y2="135.89998"
+   x2="7.1999998"
+   y1="135.89998"
+   x1="-4.0547858e-09" /><text
+   x="3.4626765"
+   y="119.96049"
+   id="text15188-06"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">16</text>
+
+<text
+   x="3.4494929"
+   y="127.08549"
+   id="text15194-7"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">17</text>
+
+<text
+   x="3.3986597"
+   y="134.58548"
+   id="text15196-3"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">18</text>
+
+<text
+   x="3.4509578"
+   y="141.71098"
+   id="text15198-7"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">19</text>
+
+<text
+   x="9.2594995"
+   y="122.58359"
+   id="text15221-5"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PB10</text>
+
+<text
+   x="9.2189999"
+   y="129.88628"
+   id="text15223-2"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PB09</text>
+
+<text
+   x="9.2594995"
+   y="136.96878"
+   id="text15225-87"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PC02</text>
+
+<text
+   x="9.2189999"
+   y="144.27158"
+   id="text15227-3"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PC03</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-7"
+   y2="150.32298"
+   x2="7.1899986"
+   y1="150.32298"
+   x1="-0.010000709" /><text
+   x="3.4409566"
+   y="148.93398"
+   id="text15198-9-5"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">20</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-2"
+   y2="157.52298"
+   x2="7.1899805"
+   y1="157.52298"
+   x1="-0.010000709" /><text
+   x="3.4409575"
+   y="156.13399"
+   id="text15198-9-6-3"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">21</text>
+
+<text
+   x="9.1798239"
+   y="151.57298"
+   id="text15227-9-2"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">GNDIO</text>
+
+<text
+   x="9.1798239"
+   y="158.77298"
+   id="text15227-9-9-0"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">VDDIO</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5-8"
+   y2="114.30939"
+   x2="7.1899977"
+   y1="114.30939"
+   x1="-0.010000709" /><text
+   x="3.4526763"
+   y="112.76988"
+   id="text15188-0-2"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">15</text>
+
+<text
+   x="9.2494993"
+   y="115.39297"
+   id="text15221-6-1"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PA02</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163-3-7"
+   y2="178.19998"
+   x2="7.1999979"
+   y1="178.19998"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-1-4"
+   y2="170.99998"
+   x2="7.1999979"
+   y1="170.99998"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-6-0"
+   y2="192.59999"
+   x2="7.1999979"
+   y1="192.59999"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169-9-9"
+   y2="185.39999"
+   x2="7.1999979"
+   y1="185.39999"
+   x1="-4.8089197e-07" /><text
+   x="3.4626765"
+   y="169.46048"
+   id="text15188-8-9"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">23</text>
+
+<text
+   x="3.4494929"
+   y="176.58548"
+   id="text15194-2-6"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">24</text>
+
+<text
+   x="3.3986597"
+   y="184.08549"
+   id="text15196-1-7"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">25</text>
+
+<text
+   x="3.4509578"
+   y="191.21098"
+   id="text15198-98-4"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">26</text>
+
+<text
+   x="9.2594976"
+   y="172.08359"
+   id="text15221-64-6"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PA29</text>
+
+<text
+   x="9.2189989"
+   y="179.38629"
+   id="text15223-4-0"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PB03</text>
+
+<text
+   x="9.2594976"
+   y="186.4688"
+   id="text15225-8-9"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PB02</text>
+
+<text
+   x="9.2189989"
+   y="193.77159"
+   id="text15227-2-7"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PA27</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-8-2"
+   y2="199.82298"
+   x2="7.1899977"
+   y1="199.82298"
+   x1="-0.010000709" /><text
+   x="3.4409556"
+   y="198.43399"
+   id="text15198-9-0-5"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">27</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-7-7"
+   y2="207.02299"
+   x2="7.1899805"
+   y1="207.02299"
+   x1="-0.010000709" /><text
+   x="3.4409575"
+   y="205.63399"
+   id="text15198-9-6-2-5"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">28</text>
+
+<text
+   x="9.179822"
+   y="201.07298"
+   id="text15227-9-7-3"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PB01</text>
+
+<text
+   x="9.179822"
+   y="208.27299"
+   id="text15227-9-9-2-2"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PA28</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5-4-7"
+   y2="163.80939"
+   x2="7.1899977"
+   y1="163.80939"
+   x1="-0.010000709" /><text
+   x="3.4526763"
+   y="162.26988"
+   id="text15188-0-6-3"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">22</text>
+
+<text
+   x="9.2494984"
+   y="164.89297"
+   id="text15221-6-6-0"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PB04</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163-32"
+   y2="228.60002"
+   x2="7.2000008"
+   y1="228.60002"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-55"
+   y2="221.40002"
+   x2="7.2000008"
+   y1="221.40002"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-5"
+   y2="243.00003"
+   x2="7.2000008"
+   y1="243.00003"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169-7"
+   y2="235.80003"
+   x2="7.2000008"
+   y1="235.80003"
+   x1="-4.8089197e-07" /><text
+   x="3.4626768"
+   y="219.86053"
+   id="text15188-7"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">30</text>
+
+<text
+   x="3.4494932"
+   y="226.98553"
+   id="text15194-5"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">31</text>
+
+<text
+   x="3.3986602"
+   y="234.48553"
+   id="text15196-0"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">32</text>
+
+<text
+   x="3.450958"
+   y="241.61104"
+   id="text15198-8"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">33</text>
+
+<text
+   x="9.2594995"
+   y="222.48363"
+   id="text15221-2"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PB00</text>
+
+<text
+   x="9.2189989"
+   y="229.78633"
+   id="text15223-6"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PB11</text>
+
+<text
+   x="9.2594995"
+   y="236.86884"
+   id="text15225-1"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX16</text>
+
+<text
+   x="9.2189989"
+   y="244.17163"
+   id="text15227-4"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX13</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-77"
+   y2="250.22304"
+   x2="7.1899986"
+   y1="250.22304"
+   x1="-0.010000709" /><text
+   x="3.4409578"
+   y="248.83403"
+   id="text15198-9-1"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">34</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-26"
+   y2="257.423"
+   x2="7.1899815"
+   y1="257.423"
+   x1="-0.010000709" /><text
+   x="3.4409578"
+   y="256.034"
+   id="text15198-9-6-33"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">35</text>
+
+<text
+   x="9.1798239"
+   y="251.47304"
+   id="text15227-9-5"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX12</text>
+
+<text
+   x="9.1798239"
+   y="258.673"
+   id="text15227-9-9-5"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX19</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5-84"
+   y2="214.20943"
+   x2="7.1899986"
+   y1="214.20943"
+   x1="-0.010000709" /><text
+   x="3.4526765"
+   y="212.66992"
+   id="text15188-0-0"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">29</text>
+
+<text
+   x="9.2494993"
+   y="215.29303"
+   id="text15221-6-3"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PA31</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163-3-70"
+   y2="278.10001"
+   x2="7.1999989"
+   y1="278.10001"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-1-6"
+   y2="270.89999"
+   x2="7.1999989"
+   y1="270.89999"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-6-9"
+   y2="292.5"
+   x2="7.1999989"
+   y1="292.5"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169-9-3"
+   y2="285.30002"
+   x2="7.1999989"
+   y1="285.30002"
+   x1="-4.8089197e-07" /><text
+   x="3.4626768"
+   y="269.36053"
+   id="text15188-8-0"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">37</text>
+
+<text
+   x="3.4494932"
+   y="276.4855"
+   id="text15194-2-60"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">38</text>
+
+<text
+   x="3.3986602"
+   y="283.9855"
+   id="text15196-1-6"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">39</text>
+
+<text
+   x="3.450958"
+   y="291.11102"
+   id="text15198-98-47"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">40</text>
+
+<text
+   x="9.2594976"
+   y="271.98361"
+   id="text15221-64-3"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX10</text>
+
+<text
+   x="9.2189989"
+   y="279.28632"
+   id="text15223-4-6"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX35</text>
+
+<text
+   x="9.2594976"
+   y="286.3688"
+   id="text15225-8-8"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX47</text>
+
+<text
+   x="9.2189989"
+   y="293.6716"
+   id="text15227-2-6"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX15</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-8-4"
+   y2="299.72302"
+   x2="7.1899986"
+   y1="299.72302"
+   x1="-0.010000709" /><text
+   x="3.4409559"
+   y="298.33401"
+   id="text15198-9-0-9"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">41</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-7-0"
+   y2="306.92303"
+   x2="7.1899815"
+   y1="306.92303"
+   x1="-0.010000709" /><text
+   x="3.4409578"
+   y="305.53403"
+   id="text15198-9-6-2-4"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">42</text>
+
+<text
+   x="9.179822"
+   y="300.97302"
+   id="text15227-9-7-8"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX48</text>
+
+<text
+   x="9.179822"
+   y="308.17303"
+   id="text15227-9-9-2-3"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX53</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5-4-8"
+   y2="263.70941"
+   x2="7.1899986"
+   y1="263.70941"
+   x1="-0.010000709" /><text
+   x="3.4526765"
+   y="262.16989"
+   id="text15188-0-6-6"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">36</text>
+
+<text
+   x="9.2494974"
+   y="264.793"
+   id="text15221-6-6-7"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX40</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163-30-1"
+   y2="328.5"
+   x2="7.2000008"
+   y1="328.5"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-2-2"
+   y2="321.29999"
+   x2="7.2000008"
+   y1="321.29999"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-4-4"
+   y2="342.89999"
+   x2="7.2000008"
+   y1="342.89999"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169-1-1"
+   y2="335.69998"
+   x2="7.2000008"
+   y1="335.69998"
+   x1="-4.8089197e-07" /><text
+   x="3.4626768"
+   y="319.7605"
+   id="text15188-06-6"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">44</text>
+
+<text
+   x="3.4494932"
+   y="326.8855"
+   id="text15194-7-7"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">45</text>
+
+<text
+   x="3.3986602"
+   y="334.3855"
+   id="text15196-3-7"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">46</text>
+
+<text
+   x="3.450958"
+   y="341.51099"
+   id="text15198-7-5"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">47</text>
+
+<text
+   x="9.2594995"
+   y="322.38361"
+   id="text15221-5-7"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX36</text>
+
+<text
+   x="9.2189989"
+   y="329.68628"
+   id="text15223-2-5"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX37</text>
+
+<text
+   x="9.2594995"
+   y="336.7688"
+   id="text15225-87-4"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX54</text>
+
+<text
+   x="9.2189989"
+   y="344.07159"
+   id="text15227-3-2"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">GNDIO</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-7-6"
+   y2="350.12299"
+   x2="7.1899986"
+   y1="350.12299"
+   x1="-0.010000709" /><text
+   x="3.4409578"
+   y="348.73398"
+   id="text15198-9-5-1"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">48</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-2-2"
+   y2="357.323"
+   x2="7.1899815"
+   y1="357.323"
+   x1="-0.010000709" /><text
+   x="3.4409578"
+   y="355.93399"
+   id="text15198-9-6-3-4"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">49</text>
+
+<text
+   x="9.1798239"
+   y="351.37299"
+   id="text15227-9-2-7"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">VDDIO</text>
+
+<text
+   x="9.1798239"
+   y="358.573"
+   id="text15227-9-9-0-1"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX09</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5-8-7"
+   y2="314.10941"
+   x2="7.1899986"
+   y1="314.10941"
+   x1="-0.010000709" /><text
+   x="3.4526765"
+   y="312.56992"
+   id="text15188-0-2-5"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">43</text>
+
+<text
+   x="9.2494993"
+   y="315.19299"
+   id="text15221-6-1-9"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX49</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163-3-7-5"
+   y2="378"
+   x2="7.1999989"
+   y1="378"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-1-4-1"
+   y2="370.79999"
+   x2="7.1999989"
+   y1="370.79999"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-6-0-0"
+   y2="392.39999"
+   x2="7.1999989"
+   y1="392.39999"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169-9-9-7"
+   y2="385.20001"
+   x2="7.1999989"
+   y1="385.20001"
+   x1="-4.8089197e-07" /><text
+   x="3.4626768"
+   y="369.2605"
+   id="text15188-8-9-5"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">51</text>
+
+<text
+   x="3.4494932"
+   y="376.3855"
+   id="text15194-2-6-1"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">52</text>
+
+<text
+   x="3.3986602"
+   y="383.8855"
+   id="text15196-1-7-1"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">53</text>
+
+<text
+   x="3.450958"
+   y="391.01099"
+   id="text15198-98-4-5"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">54</text>
+
+<text
+   x="9.2594976"
+   y="371.88361"
+   id="text15221-64-6-7"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX38</text>
+
+<text
+   x="9.2189989"
+   y="379.18631"
+   id="text15223-4-0-0"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX39</text>
+
+<text
+   x="9.2594976"
+   y="386.2688"
+   id="text15225-8-9-6"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX06</text>
+
+<text
+   x="9.2189989"
+   y="393.57159"
+   id="text15227-2-7-1"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX07</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-8-2-4"
+   y2="399.62299"
+   x2="7.1899986"
+   y1="399.62299"
+   x1="-0.010000709" /><text
+   x="3.4409559"
+   y="398.23398"
+   id="text15198-9-0-5-0"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">55</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-7-7-8"
+   y2="406.823"
+   x2="7.1899815"
+   y1="406.823"
+   x1="-0.010000709" /><text
+   x="3.4409578"
+   y="405.43399"
+   id="text15198-9-6-2-5-1"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">56</text>
+
+<text
+   x="9.179822"
+   y="400.87299"
+   id="text15227-9-7-3-9"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX00</text>
+
+<text
+   x="9.179822"
+   y="408.073"
+   id="text15227-9-9-2-2-5"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX59</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5-4-7-0"
+   y2="363.60941"
+   x2="7.1899986"
+   y1="363.60941"
+   x1="-0.010000709" /><text
+   x="3.4526765"
+   y="362.06989"
+   id="text15188-0-6-3-4"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">50</text>
+
+<text
+   x="9.2494974"
+   y="364.69299"
+   id="text15221-6-6-0-0"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX08</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163-2"
+   y2="28.80003"
+   x2="151.40021"
+   y1="28.80003"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-23"
+   y2="21.600033"
+   x2="151.40021"
+   y1="21.600033"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-48"
+   y2="43.200024"
+   x2="151.40021"
+   y1="43.200024"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169-2"
+   y2="36.000023"
+   x2="151.40021"
+   y1="36.000023"
+   x1="144.20021" /><text
+   x="146.10649"
+   y="20.060528"
+   id="text15188-6"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">74</text>
+
+<text
+   x="146.14676"
+   y="27.185528"
+   id="text15194-6"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">75</text>
+
+<text
+   x="146.08128"
+   y="34.685524"
+   id="text15196-9"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">76</text>
+
+<text
+   x="146.13652"
+   y="41.811024"
+   id="text15198-71"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">77</text>
+
+<text
+   x="141.09837"
+   y="22.683628"
+   id="text15221-0"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX46</text>
+
+<text
+   x="141.05788"
+   y="29.986332"
+   id="text15223-0"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX50</text>
+
+<text
+   x="141.09837"
+   y="37.068825"
+   id="text15225-9"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX57</text>
+
+<text
+   x="141.05788"
+   y="44.371624"
+   id="text15227-8"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX51</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-1"
+   y2="50.423023"
+   x2="151.3902"
+   y1="50.423023"
+   x1="144.1902" /><text
+   x="146.13091"
+   y="49.034023"
+   id="text15198-9-2"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">78</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-3"
+   y2="57.623024"
+   x2="151.39018"
+   y1="57.623024"
+   x1="144.1902" /><text
+   x="146.12799"
+   y="56.234024"
+   id="text15198-9-6-0"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">79</text>
+
+<text
+   x="141.01869"
+   y="51.673023"
+   id="text15227-9-22"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX56</text>
+
+<text
+   x="141.01869"
+   y="58.873024"
+   id="text15227-9-9-28"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX55</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5-2"
+   y2="14.409425"
+   x2="151.3902"
+   y1="14.409425"
+   x1="144.1902" /><text
+   x="146.15581"
+   y="12.869927"
+   id="text15188-0-20"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">73</text>
+
+<text
+   x="141.08838"
+   y="15.493028"
+   id="text15221-6-37"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX20</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163-3-2"
+   y2="78.300026"
+   x2="151.40021"
+   y1="78.300026"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-1-7"
+   y2="71.100021"
+   x2="151.40021"
+   y1="71.100021"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-6-95"
+   y2="92.700027"
+   x2="151.40021"
+   y1="92.700027"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169-9-2"
+   y2="85.500031"
+   x2="151.40021"
+   y1="85.500031"
+   x1="144.20021" /><text
+   x="146.3936"
+   y="69.560524"
+   id="text15188-8-4"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">81</text>
+
+<text
+   x="146.16287"
+   y="76.685532"
+   id="text15194-2-9"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">82</text>
+
+<text
+   x="146.11351"
+   y="84.185532"
+   id="text15196-1-0"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">83</text>
+
+<text
+   x="146.10649"
+   y="91.311028"
+   id="text15198-98-6"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">84</text>
+
+<text
+   x="141.09837"
+   y="72.183624"
+   id="text15221-64-7"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">VDDIO</text>
+
+<text
+   x="141.05788"
+   y="79.486328"
+   id="text15223-4-8"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">GNDIO</text>
+
+<text
+   x="141.09837"
+   y="86.568832"
+   id="text15225-8-5"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX17</text>
+
+<text
+   x="141.05788"
+   y="93.871628"
+   id="text15227-2-70"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX18</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-8-8"
+   y2="99.923027"
+   x2="151.3902"
+   y1="99.923027"
+   x1="144.1902" /><text
+   x="146.14995"
+   y="98.534027"
+   id="text15198-9-0-7"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">85</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-7-1"
+   y2="107.12303"
+   x2="151.39018"
+   y1="107.12303"
+   x1="144.1902" /><text
+   x="146.1353"
+   y="105.73403"
+   id="text15198-9-6-2-6"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">86</text>
+
+<text
+   x="141.01869"
+   y="101.17303"
+   id="text15227-9-7-0"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX23</text>
+
+<text
+   x="141.01869"
+   y="108.37303"
+   id="text15227-9-9-2-39"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX24</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5-4-0"
+   y2="63.909424"
+   x2="151.3902"
+   y1="63.909424"
+   x1="144.1902" /><text
+   x="146.14848"
+   y="62.369923"
+   id="text15188-0-6-7"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">80</text>
+
+<text
+   x="141.08838"
+   y="64.993019"
+   id="text15221-6-6-1"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX21</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163-30-4"
+   y2="128.7"
+   x2="151.40021"
+   y1="128.7"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-2-5"
+   y2="121.5"
+   x2="151.40021"
+   y1="121.5"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-4-5"
+   y2="143.09999"
+   x2="151.40021"
+   y1="143.09999"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169-1-6"
+   y2="135.89999"
+   x2="151.40021"
+   y1="135.89999"
+   x1="144.20021" /><text
+   x="146.16434"
+   y="119.96051"
+   id="text15188-06-7"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">88</text>
+
+<text
+   x="146.14822"
+   y="127.08551"
+   id="text15194-7-8"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">89</text>
+
+<text
+   x="146.09447"
+   y="134.58551"
+   id="text15196-3-6"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">90</text>
+
+<text
+   x="146.38187"
+   y="141.711"
+   id="text15198-7-0"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">91</text>
+
+<text
+   x="141.09837"
+   y="122.58361"
+   id="text15221-5-8"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX43</text>
+
+<text
+   x="141.05788"
+   y="129.88631"
+   id="text15223-2-7"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX27</text>
+
+<text
+   x="141.09837"
+   y="136.96881"
+   id="text15225-87-7"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX26</text>
+
+<text
+   x="141.05788"
+   y="144.27159"
+   id="text15227-3-22"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX28</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-7-8"
+   y2="150.323"
+   x2="151.3902"
+   y1="150.323"
+   x1="144.1902" /><text
+   x="146.15434"
+   y="148.93399"
+   id="text15198-9-5-2"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">92</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-2-0"
+   y2="157.52301"
+   x2="151.39018"
+   y1="157.52301"
+   x1="144.1902" /><text
+   x="146.15581"
+   y="156.134"
+   id="text15198-9-6-3-6"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">93</text>
+
+<text
+   x="141.01869"
+   y="151.573"
+   id="text15227-9-2-1"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX25</text>
+
+<text
+   x="141.01869"
+   y="158.77301"
+   id="text15227-9-9-0-8"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX32</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5-8-5"
+   y2="114.30941"
+   x2="151.3902"
+   y1="114.30941"
+   x1="144.1902" /><text
+   x="146.14995"
+   y="112.7699"
+   id="text15188-0-2-3"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">87</text>
+
+<text
+   x="141.08838"
+   y="115.39299"
+   id="text15221-6-1-8"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX52</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163-3-7-2"
+   y2="178.20001"
+   x2="151.40021"
+   y1="178.20001"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-1-4-6"
+   y2="171.00002"
+   x2="151.40021"
+   y1="171.00002"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-6-0-4"
+   y2="192.60002"
+   x2="151.40021"
+   y1="192.60002"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169-9-9-2"
+   y2="185.40002"
+   x2="151.40021"
+   y1="185.40002"
+   x1="144.20021" /><text
+   x="146.17166"
+   y="169.46051"
+   id="text15188-8-9-1"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">95</text>
+
+<text
+   x="146.14383"
+   y="176.58551"
+   id="text15194-2-6-5"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">96</text>
+
+<text
+   x="146.09593"
+   y="184.08553"
+   id="text15196-1-7-4"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">97</text>
+
+<text
+   x="146.15262"
+   y="191.21101"
+   id="text15198-98-4-8"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">98</text>
+
+<text
+   x="141.09837"
+   y="172.08362"
+   id="text15221-64-6-9"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX33</text>
+
+<text
+   x="141.05788"
+   y="179.38632"
+   id="text15223-4-0-9"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX30</text>
+
+<text
+   x="141.09837"
+   y="186.46883"
+   id="text15225-8-9-5"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX31</text>
+
+<text
+   x="141.05788"
+   y="193.77162"
+   id="text15227-2-7-4"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PC00</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-8-2-7"
+   y2="199.823"
+   x2="151.3902"
+   y1="199.823"
+   x1="144.1902" /><text
+   x="146.13969"
+   y="198.43402"
+   id="text15198-9-0-5-5"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">99</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-7-7-5"
+   y2="207.02303"
+   x2="151.39018"
+   y1="207.02303"
+   x1="144.1902" /><text
+   x="145.36333"
+   y="205.63402"
+   id="text15198-9-6-2-5-5"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">100</text>
+
+<text
+   x="141.01869"
+   y="201.073"
+   id="text15227-9-7-3-7"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PC01</text>
+
+<text
+   x="141.01869"
+   y="208.27303"
+   id="text15227-9-9-2-2-3"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA14</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5-4-7-3"
+   y2="163.8094"
+   x2="151.3902"
+   y1="163.8094"
+   x1="144.1902" /><text
+   x="146.1082"
+   y="162.2699"
+   id="text15188-0-6-3-45"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">94</text>
+
+<text
+   x="141.08838"
+   y="164.89301"
+   id="text15221-6-6-0-7"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PX29</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163-32-2"
+   y2="228.60005"
+   x2="151.40021"
+   y1="228.60005"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-55-9"
+   y2="221.40004"
+   x2="151.40021"
+   y1="221.40004"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-5-9"
+   y2="243.00006"
+   x2="151.40021"
+   y1="243.00006"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169-7-0"
+   y2="235.80006"
+   x2="151.40021"
+   y1="235.80006"
+   x1="144.20021" /><text
+   x="145.40262"
+   y="219.86057"
+   id="text15188-7-2"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">102</text>
+
+<text
+   x="145.3909"
+   y="226.98557"
+   id="text15194-5-9"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">103</text>
+
+<text
+   x="145.28075"
+   y="234.48557"
+   id="text15196-0-5"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">104</text>
+
+<text
+   x="145.38652"
+   y="241.61107"
+   id="text15198-8-5"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">105</text>
+
+<text
+   x="141.09837"
+   y="222.48366"
+   id="text15221-2-7"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">GNDIO</text>
+
+<text
+   x="141.05788"
+   y="229.78636"
+   id="text15223-6-9"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">VDDIO</text>
+
+<text
+   x="141.09837"
+   y="236.86887"
+   id="text15225-1-3"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">TMS</text>
+
+<text
+   x="141.05788"
+   y="244.17166"
+   id="text15227-4-1"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">TDO</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-77-3"
+   y2="250.22307"
+   x2="151.3902"
+   y1="250.22307"
+   x1="144.1902" /><text
+   x="145.36186"
+   y="248.83406"
+   id="text15198-9-1-4"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">106</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-26-9"
+   y2="257.42303"
+   x2="151.39018"
+   y1="257.42303"
+   x1="144.1902" /><text
+   x="145.36479"
+   y="256.03403"
+   id="text15198-9-6-33-8"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">107</text>
+
+<text
+   x="141.01869"
+   y="251.47307"
+   id="text15227-9-5-4"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">RESET_N</text>
+
+<text
+   x="141.01869"
+   y="258.67303"
+   id="text15227-9-9-5-8"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">TCK</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5-84-7"
+   y2="214.20946"
+   x2="151.3902"
+   y1="214.20946"
+   x1="144.1902" /><text
+   x="145.61015"
+   y="212.66994"
+   id="text15188-0-0-0"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">101</text>
+
+<text
+   x="141.08838"
+   y="215.29306"
+   id="text15221-6-3-2"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA15</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163-3-70-6"
+   y2="278.10004"
+   x2="151.40021"
+   y1="278.10004"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-1-6-7"
+   y2="270.90002"
+   x2="151.40021"
+   y1="270.90002"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-6-9-9"
+   y2="292.50003"
+   x2="151.40021"
+   y1="292.50003"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169-9-3-2"
+   y2="285.30005"
+   x2="151.40021"
+   y1="285.30005"
+   x1="144.20021" /><text
+   x="145.38797"
+   y="269.36057"
+   id="text15188-8-0-4"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">109</text>
+
+<text
+   x="145.37186"
+   y="276.48553"
+   id="text15194-2-60-4"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">110</text>
+
+<text
+   x="145.55614"
+   y="283.98553"
+   id="text15196-1-6-5"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">111</text>
+
+<text
+   x="145.3909"
+   y="291.11105"
+   id="text15198-98-47-0"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">112</text>
+
+<text
+   x="141.09837"
+   y="271.98364"
+   id="text15221-64-3-1"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA21</text>
+
+<text
+   x="141.05788"
+   y="279.28635"
+   id="text15223-4-6-4"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA22</text>
+
+<text
+   x="141.09837"
+   y="286.36884"
+   id="text15225-8-8-4"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA23</text>
+
+<text
+   x="141.05788"
+   y="293.67163"
+   id="text15227-2-6-1"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA24</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-8-4-3"
+   y2="299.72305"
+   x2="151.3902"
+   y1="299.72305"
+   x1="144.1902" /><text
+   x="145.38237"
+   y="298.33405"
+   id="text15198-9-0-9-5"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">113</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-7-0-3"
+   y2="306.92307"
+   x2="151.39018"
+   y1="306.92307"
+   x1="144.1902" /><text
+   x="145.32304"
+   y="305.53406"
+   id="text15198-9-6-2-4-3"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">114</text>
+
+<text
+   x="141.01869"
+   y="300.97305"
+   id="text15227-9-7-8-2"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA20</text>
+
+<text
+   x="141.01869"
+   y="308.17307"
+   id="text15227-9-9-2-3-1"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA19</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5-4-8-2"
+   y2="263.70944"
+   x2="151.3902"
+   y1="263.70944"
+   x1="144.1902" /><text
+   x="145.38092"
+   y="262.16992"
+   id="text15188-0-6-6-2"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">108</text>
+
+<text
+   x="141.08838"
+   y="264.79303"
+   id="text15221-6-6-7-4"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">TDI</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163-30-1-6"
+   y2="328.50003"
+   x2="151.40021"
+   y1="328.50003"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-2-2-5"
+   y2="321.30002"
+   x2="151.40021"
+   y1="321.30002"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-4-4-1"
+   y2="342.90002"
+   x2="151.40021"
+   y1="342.90002"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169-1-1-5"
+   y2="335.70001"
+   x2="151.40021"
+   y1="335.70001"
+   x1="144.20021" /><text
+   x="145.38359"
+   y="319.76053"
+   id="text15188-06-6-3"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">116</text>
+
+<text
+   x="145.37332"
+   y="326.88553"
+   id="text15194-7-7-5"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">117</text>
+
+<text
+   x="145.32689"
+   y="334.38553"
+   id="text15196-3-7-3"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">118</text>
+
+<text
+   x="145.37625"
+   y="341.51102"
+   id="text15198-7-5-2"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">119</text>
+
+<text
+   x="141.09837"
+   y="322.38364"
+   id="text15221-5-7-5"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA17</text>
+
+<text
+   x="141.05788"
+   y="329.68631"
+   id="text15223-2-5-7"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">GNDANA</text>
+
+<text
+   x="141.09837"
+   y="336.76883"
+   id="text15225-87-4-1"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">VDDANA</text>
+
+<text
+   x="141.05788"
+   y="344.07162"
+   id="text15227-3-2-4"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA25</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-7-6-7"
+   y2="350.12302"
+   x2="151.3902"
+   y1="350.12302"
+   x1="144.1902" /><text
+   x="145.36333"
+   y="348.73401"
+   id="text15198-9-5-1-3"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">120</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-2-2-8"
+   y2="357.323"
+   x2="151.39018"
+   y1="357.323"
+   x1="144.1902" /><text
+   x="145.59843"
+   y="355.93402"
+   id="text15198-9-6-3-4-1"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">121</text>
+
+<text
+   x="141.01869"
+   y="351.37302"
+   id="text15227-9-2-7-0"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA26</text>
+
+<text
+   x="141.01869"
+   y="358.573"
+   id="text15227-9-9-0-1-8"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PB05</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5-8-7-3"
+   y2="314.10944"
+   x2="151.3902"
+   y1="314.10944"
+   x1="144.1902" /><text
+   x="145.38823"
+   y="312.56995"
+   id="text15188-0-2-5-4"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">115</text>
+
+<text
+   x="141.08838"
+   y="315.19302"
+   id="text15221-6-1-9-3"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA18</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163-3-7-5-6"
+   y2="378"
+   x2="151.40021"
+   y1="378"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-1-4-1-9"
+   y2="370.79999"
+   x2="151.40021"
+   y1="370.79999"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-6-0-0-0"
+   y2="392.39999"
+   x2="151.40021"
+   y1="392.39999"
+   x1="144.20021" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169-9-9-7-1"
+   y2="385.20001"
+   x2="151.40021"
+   y1="385.20001"
+   x1="144.20021" /><text
+   x="145.40408"
+   y="369.2605"
+   id="text15188-8-9-5-2"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">123</text>
+
+<text
+   x="145.33157"
+   y="376.3855"
+   id="text15194-2-6-1-2"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">124</text>
+
+<text
+   x="145.33421"
+   y="383.8855"
+   id="text15196-1-7-1-2"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">125</text>
+
+<text
+   x="145.37186"
+   y="391.01099"
+   id="text15198-98-4-5-5"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">126</text>
+
+<text
+   x="141.09837"
+   y="371.88361"
+   id="text15221-64-6-7-6"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA01</text>
+
+<text
+   x="141.05788"
+   y="379.18631"
+   id="text15223-4-0-0-9"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA05</text>
+
+<text
+   x="141.09837"
+   y="386.2688"
+   id="text15225-8-9-6-3"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA03</text>
+
+<text
+   x="141.05788"
+   y="393.57159"
+   id="text15227-2-7-1-2"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA04</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-8-2-4-2"
+   y2="399.62299"
+   x2="151.3902"
+   y1="399.62299"
+   x1="144.1902" /><text
+   x="145.36478"
+   y="398.23398"
+   id="text15198-9-0-5-0-8"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">127</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-7-7-8-7"
+   y2="406.823"
+   x2="151.39018"
+   y1="406.823"
+   x1="144.1902" /><text
+   x="145.36919"
+   y="405.43399"
+   id="text15198-9-6-2-5-1-7"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">128</text>
+
+<text
+   x="141.01869"
+   y="400.87299"
+   id="text15227-9-7-3-9-1"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA06</text>
+
+<text
+   x="141.01869"
+   y="408.073"
+   id="text15227-9-9-2-2-5-2"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA16</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5-4-7-0-5"
+   y2="363.60941"
+   x2="151.3902"
+   y1="363.60941"
+   x1="144.1902" /><text
+   x="145.39262"
+   y="362.06989"
+   id="text15188-0-6-3-4-0"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">122</text>
+
+<text
+   x="141.08838"
+   y="364.69299"
+   id="text15221-6-6-0-0-3"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA00</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-8-4-9"
+   y2="414.02301"
+   x2="7.1899981"
+   y1="414.02301"
+   x1="-0.010000709" /><text
+   x="3.4409559"
+   y="412.634"
+   id="text15198-9-0-9-9"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">57</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-7-0-8"
+   y2="421.22302"
+   x2="7.189981"
+   y1="421.22302"
+   x1="-0.010000709" /><text
+   x="3.4409578"
+   y="419.83401"
+   id="text15198-9-6-2-4-8"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">58</text>
+
+<text
+   x="9.179821"
+   y="415.27301"
+   id="text15227-9-7-8-1"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX58</text>
+
+<text
+   x="9.179821"
+   y="422.47302"
+   id="text15227-9-9-2-3-8"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX05</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163-30-1-8"
+   y2="442.79999"
+   x2="7.2000003"
+   y1="442.79999"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-2-2-6"
+   y2="435.59998"
+   x2="7.2000003"
+   y1="435.59998"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-4-4-2"
+   y2="457.19998"
+   x2="7.2000003"
+   y1="457.19998"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169-1-1-3"
+   y2="449.99997"
+   x2="7.2000003"
+   y1="449.99997"
+   x1="-4.8089197e-07" /><text
+   x="3.4626768"
+   y="434.06049"
+   id="text15188-06-6-2"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">60</text>
+
+<text
+   x="3.4494932"
+   y="441.18549"
+   id="text15194-7-7-3"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">61</text>
+
+<text
+   x="3.3986602"
+   y="448.68549"
+   id="text15196-3-7-35"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">62</text>
+
+<text
+   x="3.450958"
+   y="455.81097"
+   id="text15198-7-5-6"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">63</text>
+
+<text
+   x="9.2594986"
+   y="436.68359"
+   id="text15221-5-7-8"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX04</text>
+
+<text
+   x="9.218998"
+   y="443.98627"
+   id="text15223-2-5-0"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX34</text>
+
+<text
+   x="9.2594986"
+   y="451.06879"
+   id="text15225-87-4-3"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX02</text>
+
+<text
+   x="9.218998"
+   y="458.37158"
+   id="text15227-3-2-41"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX03</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-7-6-6"
+   y2="464.42297"
+   x2="7.1899981"
+   y1="464.42297"
+   x1="-0.010000709" /><text
+   x="3.4409578"
+   y="463.03397"
+   id="text15198-9-5-1-8"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">64</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-2-2-3"
+   y2="471.62299"
+   x2="7.189981"
+   y1="471.62299"
+   x1="-0.010000709" /><text
+   x="3.4409578"
+   y="470.23398"
+   id="text15198-9-6-3-4-6"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">65</text>
+
+<text
+   x="9.1798229"
+   y="465.67297"
+   id="text15227-9-2-7-8"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">VDDIO</text>
+
+<text
+   x="9.1798229"
+   y="472.87299"
+   id="text15227-9-9-0-1-0"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">GNDIO</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5-8-7-9"
+   y2="428.40939"
+   x2="7.1899981"
+   y1="428.40939"
+   x1="-0.010000709" /><text
+   x="3.4526765"
+   y="426.8699"
+   id="text15188-0-2-5-0"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">59</text>
+
+<text
+   x="9.2494984"
+   y="429.49298"
+   id="text15221-6-1-9-5"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX01</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163-3-7-5-9"
+   y2="493.20001"
+   x2="7.1999984"
+   y1="493.20001"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-1-4-1-5"
+   y2="486"
+   x2="7.1999984"
+   y1="486"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-6-0-0-5"
+   y2="507.60001"
+   x2="7.1999984"
+   y1="507.60001"
+   x1="-4.8089197e-07" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169-9-9-7-9"
+   y2="500.40002"
+   x2="7.1999984"
+   y1="500.40002"
+   x1="-4.8089197e-07" /><text
+   x="3.4626768"
+   y="484.46051"
+   id="text15188-8-9-5-3"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">67</text>
+
+<text
+   x="3.4494932"
+   y="491.58551"
+   id="text15194-2-6-1-5"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">68</text>
+
+<text
+   x="3.3986602"
+   y="499.08551"
+   id="text15196-1-7-1-23"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">69</text>
+
+<text
+   x="3.450958"
+   y="506.211"
+   id="text15198-98-4-5-58"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">70</text>
+
+<text
+   x="9.2594967"
+   y="487.08362"
+   id="text15221-64-6-7-5"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX11</text>
+
+<text
+   x="9.218998"
+   y="494.38632"
+   id="text15223-4-0-0-1"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX14</text>
+
+<text
+   x="9.2594967"
+   y="501.46881"
+   id="text15225-8-9-6-2"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX42</text>
+
+<text
+   x="9.218998"
+   y="508.77161"
+   id="text15227-2-7-1-0"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX45</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-8-2-4-6"
+   y2="514.823"
+   x2="7.1899981"
+   y1="514.823"
+   x1="-0.010000709" /><text
+   x="3.4409559"
+   y="513.43396"
+   id="text15198-9-0-5-0-7"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">71</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-7-7-8-6"
+   y2="522.02301"
+   x2="7.189981"
+   y1="522.02301"
+   x1="-0.010000709" /><text
+   x="3.4409578"
+   y="520.63403"
+   id="text15198-9-6-2-5-1-4"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">72</text>
+
+<text
+   x="9.179821"
+   y="516.073"
+   id="text15227-9-7-3-9-9"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX41</text>
+
+<text
+   x="9.179821"
+   y="523.27301"
+   id="text15227-9-9-2-2-5-1"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX22</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5-4-7-0-1"
+   y2="478.80942"
+   x2="7.1899981"
+   y1="478.80942"
+   x1="-0.010000709" /><text
+   x="3.4526765"
+   y="477.2699"
+   id="text15188-0-6-3-4-09"
+   style="font-size:3px;text-align:center;text-anchor:middle;fill:#555555;font-family:DroidSans">66</text>
+
+<text
+   x="9.2494965"
+   y="479.89301"
+   id="text15221-6-6-0-0-1"
+   style="font-size:4.5px;fill:#555555;font-family:DroidSans">PX44</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-8-4-3-8"
+   y2="414.02304"
+   x2="151.17491"
+   y1="414.02304"
+   x1="143.97491" /><text
+   x="145.15097"
+   y="412.63403"
+   id="text15198-9-0-9-5-3"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">129</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-7-0-3-8"
+   y2="421.22305"
+   x2="151.1749"
+   y1="421.22305"
+   x1="143.97491" /><text
+   x="145.14804"
+   y="419.83405"
+   id="text15198-9-6-2-4-3-6"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">130</text>
+
+<text
+   x="140.80342"
+   y="415.27304"
+   id="text15227-9-7-8-2-0"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA13</text>
+
+<text
+   x="140.80342"
+   y="422.47305"
+   id="text15227-9-9-2-3-1-3"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">VDDIO</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163-30-1-6-8"
+   y2="442.80002"
+   x2="151.18491"
+   y1="442.80002"
+   x1="143.98491" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-2-2-5-4"
+   y2="435.60001"
+   x2="151.18491"
+   y1="435.60001"
+   x1="143.98491" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-4-4-1-5"
+   y2="457.20001"
+   x2="151.18491"
+   y1="457.20001"
+   x1="143.98491" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169-1-1-5-4"
+   y2="450"
+   x2="151.18491"
+   y1="450"
+   x1="143.98491" /><text
+   x="145.18733"
+   y="434.06052"
+   id="text15188-06-6-3-9"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">132</text>
+
+<text
+   x="145.17561"
+   y="441.18552"
+   id="text15194-7-7-5-3"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">133</text>
+
+<text
+   x="145.06546"
+   y="448.68552"
+   id="text15196-3-7-3-3"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">134</text>
+
+<text
+   x="145.17122"
+   y="455.811"
+   id="text15198-7-5-2-1"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">135</text>
+
+<text
+   x="140.88309"
+   y="436.68362"
+   id="text15221-5-7-5-8"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA12</text>
+
+<text
+   x="140.84259"
+   y="443.9863"
+   id="text15223-2-5-7-6"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA07</text>
+
+<text
+   x="140.88309"
+   y="451.06882"
+   id="text15225-87-4-1-5"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PB06</text>
+
+<text
+   x="140.84259"
+   y="458.37161"
+   id="text15227-3-2-4-1"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PB07</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-7-6-7-8"
+   y2="464.423"
+   x2="151.17491"
+   y1="464.423"
+   x1="143.97491" /><text
+   x="145.14659"
+   y="463.034"
+   id="text15198-9-5-1-3-6"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">136</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-2-2-8-6"
+   y2="471.62299"
+   x2="151.1749"
+   y1="471.62299"
+   x1="143.97491" /><text
+   x="145.14952"
+   y="470.23401"
+   id="text15198-9-6-3-4-1-9"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">137</text>
+
+<text
+   x="140.80342"
+   y="465.673"
+   id="text15227-9-2-7-0-7"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA11</text>
+
+<text
+   x="140.80342"
+   y="472.87299"
+   id="text15227-9-9-0-1-8-0"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA08</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5-8-7-3-1"
+   y2="428.40942"
+   x2="151.17491"
+   y1="428.40942"
+   x1="143.97491" /><text
+   x="145.39487"
+   y="426.86993"
+   id="text15188-0-2-5-4-8"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">131</text>
+
+<text
+   x="140.87309"
+   y="429.49301"
+   id="text15221-6-1-9-3-3"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">GNDIO</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15163-3-7-5-6-8"
+   y2="493.20001"
+   x2="151.18491"
+   y1="493.20001"
+   x1="143.98491" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-1-4-1-9-7"
+   y2="486"
+   x2="151.18491"
+   y1="486"
+   x1="143.98491" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-6-0-0-0-0"
+   y2="507.60001"
+   x2="151.18491"
+   y1="507.60001"
+   x1="143.98491" /><line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15169-9-9-7-1-8"
+   y2="500.40002"
+   x2="151.18491"
+   y1="500.40002"
+   x1="143.98491" /><text
+   x="145.17268"
+   y="484.46051"
+   id="text15188-8-9-5-2-7"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">139</text>
+
+<text
+   x="145.15657"
+   y="491.58551"
+   id="text15194-2-6-1-2-3"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">140</text>
+
+<text
+   x="145.34085"
+   y="499.08551"
+   id="text15196-1-7-1-2-9"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">141</text>
+
+<text
+   x="145.17561"
+   y="506.211"
+   id="text15198-98-4-5-5-6"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">142</text>
+
+<text
+   x="140.88309"
+   y="487.08362"
+   id="text15221-64-6-7-6-5"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA09</text>
+
+<text
+   x="140.84259"
+   y="494.38632"
+   id="text15223-4-0-0-9-2"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">GNDCORE</text>
+
+<text
+   x="140.88309"
+   y="501.46881"
+   id="text15225-8-9-6-3-6"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">VDDCORE</text>
+
+<text
+   x="140.84259"
+   y="508.77161"
+   id="text15227-2-7-1-2-2"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">VDDIN</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-8-2-4-2-9"
+   y2="514.823"
+   x2="151.17491"
+   y1="514.823"
+   x1="143.97491" /><text
+   x="145.16708"
+   y="513.43396"
+   id="text15198-9-0-5-0-8-0"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">143</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15167-1-4-7-7-8-7-1"
+   y2="522.02301"
+   x2="151.1749"
+   y1="522.02301"
+   x1="143.97491" /><text
+   x="145.10776"
+   y="520.63397"
+   id="text15198-9-6-2-5-1-7-4"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">144</text>
+
+<text
+   x="140.80342"
+   y="516.073"
+   id="text15227-9-7-3-9-1-6"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">VDDIN</text>
+
+<text
+   x="140.80342"
+   y="523.27301"
+   id="text15227-9-9-2-2-5-2-5"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">GNDPLL</text>
+
+<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   id="line15165-5-4-7-0-5-4"
+   y2="478.80942"
+   x2="151.17491"
+   y1="478.80942"
+   x1="143.97491" /><text
+   x="145.16562"
+   y="477.2699"
+   id="text15188-0-6-3-4-0-2"
+   style="font-size:3px;text-align:start;text-anchor:start;fill:#555555;font-family:DroidSans">138</text>
+
+<text
+   x="140.87309"
+   y="479.89301"
+   id="text15221-6-6-0-0-3-2"
+   style="font-size:4.5px;text-align:end;text-anchor:end;fill:#555555;font-family:DroidSans">PA10</text>
+
 </g></svg>
